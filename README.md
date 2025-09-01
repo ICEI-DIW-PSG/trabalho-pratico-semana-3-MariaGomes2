@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Maria Fernanda
+- Matricula:902082
+- Proposta de projeto escolhida:Pessoas e Produções
+- Breve descrição sobre seu projeto: Esse trabalho é um fan page da taylor swift.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![wireframe](<public/imagens/Captura de tela.png>)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![home page](<public/imagens/Captura de tela taylor.png>)
